@@ -1,0 +1,9 @@
+#pastas a serem ignoradas
+.venv
+venv
+
+#tipos de dados não usados
+*.dbf
+*.shp
+*.shx
+*.csv
